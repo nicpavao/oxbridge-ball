@@ -6,7 +6,7 @@ body {
     text-align: center;
 }
 .nav-bar {
-    background-color: #570930FF;
+    background-color: rgb(41,51,31);
     padding: 15px;
     font-family: 'Georgia', serif;
     font-size: 20px;
@@ -23,7 +23,7 @@ body {
     background-size: cover;
 }
 .content {
-    padding: 2px 20px;
+    padding: 20px 20px;
 }
 
 img.kate {
@@ -32,7 +32,7 @@ img.kate {
 }
 
 img.nic {
-    width: 18%;
+    width: 75%;
     height: auto;
 }
 
@@ -48,9 +48,10 @@ img.nic {
     font-family: 'Dancing Script', cursive;
 }
 .content h2 {
-    font-size: 24px;
+    font-size: 21px;
     font-weight: 400;
     font-family: 'Georgia', serif;
+    padding: 2px;
 }
 
 .date {
