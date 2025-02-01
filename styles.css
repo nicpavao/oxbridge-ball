@@ -1,14 +1,14 @@
 body {
     margin: 0;
-    font-family: 'Playfair Display', serif;
-    background-color: #4F2D3C;
+    font-family:'Georgia', serif;
+    background-color: rgb(41,51,31);
     color: white;
     text-align: center;
 }
 .nav-bar {
-    background-color: #4F2D3C;
+    background-color: #570930FF;
     padding: 15px;
-    font-family: 'Georgia', sans-serif;
+    font-family: 'Georgia', serif;
     font-size: 20px;
 }
 .nav-bar a {
@@ -23,21 +23,21 @@ body {
     background-size: cover;
 }
 .content {
-    padding: 40px 20px;
+    padding: 2px 20px;
 }
 
 img.kate {
-    width: 20%;
+    width: 15%;
     height: auto;
 }
 
 img.nic {
-    width: 24%;
+    width: 18%;
     height: auto;
 }
 
 .content h3 {
-    font-size: 72px;
+    font-size: 56px;
     font-weight: 700;
     font-family: 'Dancing Script', cursive;
 }
@@ -50,7 +50,7 @@ img.nic {
 .content h2 {
     font-size: 24px;
     font-weight: 400;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Georgia', serif;
 }
 
 .date {
@@ -62,7 +62,7 @@ img.nic {
     color: #4F2D3C;
     padding: 10px 20px;
     font-size: 16px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Georgia', serif;
     border: none;
     cursor: pointer;
     margin-top: 20px;
@@ -73,5 +73,5 @@ img.nic {
 .footer {
     margin-top: 40px;
     font-size: 16px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Georgia', serif;
 }
