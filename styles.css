@@ -8,15 +8,15 @@ body {
 .nav-bar {
     background-color: #4F2D3C;
     padding: 15px;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 14px;
+    font-family: 'Georgia', sans-serif;
+    font-size: 20px;
 }
 .nav-bar a {
     color: white;
     text-decoration: none;
     margin: 0 15px;
 }
-.hero-image {
+.hero-section {
     width: 100%;
     height: 400px;
     background: url('https://source.unsplash.com/featured/?wedding,couple') no-repeat center center;
@@ -25,6 +25,23 @@ body {
 .content {
     padding: 40px 20px;
 }
+
+img.kate {
+    width: 20%;
+    height: auto;
+}
+
+img.nic {
+    width: 24%;
+    height: auto;
+}
+
+.content h3 {
+    font-size: 72px;
+    font-weight: 700;
+    font-family: 'Dancing Script', cursive;
+}
+
 .content h1 {
     font-size: 36px;
     font-weight: 700;
@@ -33,12 +50,9 @@ body {
 .content h2 {
     font-size: 24px;
     font-weight: 400;
+    font-family: 'Dancing Script', cursive;
 }
-.hashtag {
-    font-size: 16px;
-    font-family: 'Montserrat', sans-serif;
-    margin-top: 10px;
-}
+
 .date {
     font-size: 18px;
     margin-top: 20px;
