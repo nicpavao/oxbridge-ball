@@ -1,2 +1,2 @@
-# Wedding Website
-Repo for Wedding Website
+# Oxbridge Ball Website
+Oxbridge Ball landing page
